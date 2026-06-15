@@ -121,7 +121,7 @@ export default function PolitykaPrywatnosci() {
             <ul className="mt-3 list-disc space-y-1 pl-6">
               <li>dostępu do swoich danych oraz otrzymania ich kopii,</li>
               <li>sprostowania (poprawiania) danych,</li>
-              <li>usunięcia danych („prawo do bycia zapomnianym"),</li>
+              <li>usunięcia danych (&bdquo;prawo do bycia zapomnianym&rdquo;),</li>
               <li>ograniczenia przetwarzania,</li>
               <li>przenoszenia danych,</li>
               <li>wniesienia sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie,</li>
