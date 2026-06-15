@@ -156,7 +156,7 @@ export default function RealizacjePage() {
           <h2 className="text-2xl font-bold sm:text-3xl">
             Zainteresowany podobną realizacją?
           </h2>
-          <p className="mt-3 text-slate-400">
+          <p className="mt-3 text-slate-300">
             Skontaktuj się z nami — bezpłatna wycena bez zobowiązań.
           </p>
           <a

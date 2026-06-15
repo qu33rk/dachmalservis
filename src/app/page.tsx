@@ -161,7 +161,7 @@ export default function HomePage() {
             >
               Zamów bezpłatną wycenę
             </h2>
-            <p className="mx-auto mt-4 max-w-lg text-lg leading-relaxed text-slate-400">
+            <p className="mx-auto mt-4 max-w-lg text-lg leading-relaxed text-slate-300">
               Działamy w Bydgoszczy i okolicach. Zadzwoń — umówimy termin
               oględzin i przygotujemy wycenę bez zobowiązań.
             </p>

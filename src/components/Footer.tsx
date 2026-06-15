@@ -22,7 +22,7 @@ export function Footer() {
             <Link href="/" className="text-xl font-bold text-white">
               Dach Mal Servis
             </Link>
-            <p className="mt-4 text-sm leading-relaxed text-slate-400">
+            <p className="mt-4 text-sm leading-relaxed text-slate-300">
               Profesjonalne usługi dekarskie i remontowo-budowlane w Bydgoszczy.
               Doświadczenie od 2010 r., członek PSD, ubezpieczenie OC 1 500 000 zł.
             </p>
@@ -37,7 +37,7 @@ export function Footer() {
                 <li key={page.href}>
                   <Link
                     href={page.href}
-                    className="text-slate-400 transition hover:text-brand-400"
+                    className="text-slate-300 transition hover:text-brand-400"
                   >
                     {page.label}
                   </Link>
@@ -64,7 +64,7 @@ export function Footer() {
               <p className="flex items-center gap-3">
                 <Phone className="h-5 w-5 shrink-0 text-brand-400" aria-hidden="true" />
                 <span>
-                  <span className="block text-slate-400">{nap.contactPerson}</span>
+                  <span className="block text-slate-300">{nap.contactPerson}</span>
                   <a href={nap.phoneHref} className="transition hover:text-brand-400">
                     {nap.phone}
                   </a>

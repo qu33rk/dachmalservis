@@ -84,7 +84,7 @@ export default function ServicesPage() {
             <h2 className="text-3xl font-bold text-white sm:text-4xl">
               Nie wiesz, której usługi potrzebujesz?
             </h2>
-            <p className="mx-auto mt-4 max-w-lg text-lg leading-relaxed text-slate-400">
+            <p className="mx-auto mt-4 max-w-lg text-lg leading-relaxed text-slate-300">
               Skontaktuj się z nami — doradzimy i przygotujemy bezpłatną wycenę bez zobowiązań.
             </p>
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
