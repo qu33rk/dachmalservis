@@ -183,7 +183,7 @@ export default function ServicePage({ params }: ServicePageProps) {
 
             <aside className="lg:col-span-1">
               <div className="sticky top-24 rounded-2xl bg-slate-900 p-7 text-white">
-                <h2 className="text-lg font-bold">Bezpłatna wycena</h2>
+                <h2 className="text-lg font-bold text-white">Bezpłatna wycena</h2>
                 <p className="mt-2 text-sm leading-relaxed text-slate-300">
                   Zadzwoń lub napisz — umówimy termin oględzin i przygotujemy wycenę bez zobowiązań.
                 </p>

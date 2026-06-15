@@ -153,7 +153,7 @@ export default function RealizacjePage() {
         </div>
 
         <div className="mt-20 rounded-2xl bg-slate-900 px-8 py-12 text-center text-white">
-          <h2 className="text-2xl font-bold sm:text-3xl">
+          <h2 className="text-2xl font-bold text-white sm:text-3xl">
             Zainteresowany podobną realizacją?
           </h2>
           <p className="mt-3 text-slate-300">
