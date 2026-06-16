@@ -9,8 +9,8 @@ export const siteConfig = {
   region: "kujawsko-pomorskie",
   nap: {
     name: "Dach Mal Servis",
-    street: "ul. Generała Bora-Komorowskiego 10/107",
-    postalCode: "85-793",
+    street: "Ciele, ul. Szczęśliwa 10",
+    postalCode: "86-005",
     city: "Bydgoszcz",
     country: "Polska",
     phone: "+48 500 450 018",
