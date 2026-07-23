@@ -88,7 +88,7 @@ export function Footer() {
             <span>
               Developed by:{" "}
               <a
-                href="https://www.linkedin.com/in/eryk-witkowski/"
+                href="https://erykwitkowski.pl"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition hover:text-slate-300"
